@@ -4,7 +4,7 @@
 		<class>com.Switch.models.Switch</class>
 		<jta-data-source>jdbc/ESP8266DBMS</jta-data-source>
 		<properties>
-			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/aaesflh785t0su"/>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://aaesflh785t0su.c6jjixm2spem.us-west-2.rds.amazonaws.com:3306/aaesflh785t0su"/>
 			<property name="javax.persistence.jdbc.user" value="root"/>
 			<property name="javax.persistence.jdbc.password" value=" password"/>
 			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
